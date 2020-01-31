@@ -13,6 +13,8 @@ Challenges:
 
 Final product:
 
+![]()
+
 ### Candle Holder
 Assignment:
 
@@ -21,6 +23,8 @@ What I learned:
 Challenges: 
 
 Final product:
+
+![]()
 
 ## A Little Practice
 For these tutorials you had to make 1. a pressure plate and 2. a box assembly with two parts
@@ -33,6 +37,8 @@ What I learned:
 Challenges: 
 
 Final product:
+
+![]()
 ### Tutor
 Assignment:
 
@@ -41,3 +47,5 @@ What I learned:
 Challenges: 
 
 Final product:
+
+![]()

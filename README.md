@@ -30,22 +30,22 @@ Final product:
 For these tutorials you had to make 1. a pressure plate and 2. a box assembly with two parts.
 
 ### Pressure Plate
-Assignment:
+Assignment: Follow the intro to solidworks tutorial and use Lesson 1: Parts to make a pressure plate part.
 
-What I learned: 
+What I learned: How to use fillets to smooth edges.
 
-Challenges: 
+Challenges: I didn't struggle very much with this assignment.
 
 Final product:
 
-![]()
+![Solidworks Tutorial:Parts Assignment](https://github.com/ahernan79/NotSoBasicCAD/blob/master/pressureplate1.PNG?raw=true)
 ### Tutor
-Assignment:
+Assignment: Follow the Lesson 2: Assemblies tutorial to make a box from two parts. 
 
-What I learned: 
+What I learned: How to use the shell feature to hollow out parts and I also got some more practice with mates.
 
-Challenges: 
+Challenges: I had some trouble getting them to line up perfectly in mates but trial and error fixed it.
 
 Final product:
 
-![]()
+![Solidworks Tutorial:Assemblies Assignment](https://github.com/ahernan79/NotSoBasicCAD/blob/master/tutor1.PNG?raw=true)

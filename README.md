@@ -13,7 +13,7 @@ Challenges: It was fairly challenging to get the planes and everything lined up 
 
 Final product:
 
-![Hammer Head Basic CAD assignment]()
+![Hammer Head Basic CAD assignment](https://github.com/ahernan79/NotSoBasicCAD/blob/master/lofts1.PNG?raw=true)
 
 ### Candle Holder
 Assignment: Follow the tutorial and use the revolve and sweep tools to make the candle holder shown.
@@ -24,7 +24,7 @@ Challenges: I struggled getting the circles and splines the right angle so it to
 
 Final product:
 
-![Sweeps and revolve basic CAD assignment]()
+![Sweeps and revolve basic CAD assignment](https://github.com/ahernan79/NotSoBasicCAD/blob/master/cstick1.PNG?raw=true)
 
 ## A Little Practice
 For these tutorials you had to make 1. a pressure plate and 2. a box assembly with two parts.
